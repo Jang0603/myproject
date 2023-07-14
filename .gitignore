@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse
 
@@ -68,6 +69,13 @@ local.properties
 .sts4-cache/
 
 ### Java ###
+=======
+
+# pdf 파일을 제외
+*.pdf
+
+
+>>>>>>> b658f72a7077da247bb3282f7918e261fdc216a1
 # Compiled class file
 *.class
 
